@@ -51,3 +51,10 @@ php artisan queue:work
 php artisan serve
 ```
 
+![image](https://user-images.githubusercontent.com/75301627/110449352-c7df9580-80ca-11eb-955b-666f6b50a67e.png)
+![image](https://user-images.githubusercontent.com/75301627/110449550-f78e9d80-80ca-11eb-8892-2f0b3a3e9469.png)
+![image](https://user-images.githubusercontent.com/75301627/110449641-112fe500-80cb-11eb-82c0-99b6dd56cc57.png)
+
+
+
+
